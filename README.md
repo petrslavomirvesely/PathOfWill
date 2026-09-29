@@ -1,2 +1,2 @@
-# Path-of-Will
+# Path of Will
 Modlist Skyrim AE
